@@ -287,9 +287,9 @@ The command message consists of three parts:
 3. The button block
      - The button block is already described [here](README.md#the-buttons).
 
-# Contributing
+# Notice
 
-Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request. If you have any questions, you can reach out to the original creators of the bot on Discord (Mjolnir#6243 and OvajStup#7133).
+This project is not actively maintained, and no loger works with the Discord and Spotify APIs.
 
 # License
 
